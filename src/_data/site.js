@@ -6,8 +6,7 @@ export default {
   venue: "Clarion Hotel Trondheim",
   email: "connect@trondheimdc.no",
   partnerEmail: "partner@trondheimdc.no",
-  cfpUrl: "https://sessionize.com/tdc-2026/",
-  ticketUrl: "#tickets",
+  ticketUrl: "https://event.checkin.no/215261/tdc-2026",
   partnerOrderUrl: "#partners",
   sessionizeEventId: "",
   social: {
