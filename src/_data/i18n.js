@@ -19,7 +19,6 @@ export default {
       year: "2026",
       venue: "Clarion Hotel Trondheim",
       cta_tickets: "Kjøp billetter",
-      cta_cfp: "Send inn ditt foredrag",
     },
     about: {
       title: "Velkommen til TDC 2026!",
@@ -37,8 +36,8 @@ export default {
     },
     cfp: {
       title: "Call for Presentations",
-      body: 'Vår call for presentations for 2026 er nå åpen! Vi ser etter en konferanseagenda som består av flere spor for digital design, front-end, back-end, agile utviklere, og mange andre interessante emner. Vår konferanse streber etter å oppnå en balanse mellom lokale, nasjonale og internasjonale foredragsholdere.',
-      cta: "Send inn ditt foredrag",
+      body: "Vår Call for Presentations for 2026 er nå stengt. Takk til alle som sendte inn forslag! Programmet publiseres snart.",
+      cta: "",
     },
     speakers: {
       title: "Foredragsholdere",
@@ -58,8 +57,9 @@ export default {
         "Få tilgang til hele konferansen, inkludert mat, drikke og fest.",
       partner_title: "For partnere",
       partner_desc:
-        "Bli synlig for 800+ deltakere. Sikre stand og billetter.",
-      partner_cta: "Bli partner",
+        "Partnerbillettene er utsolgt! Ta kontakt om du vil på venteliste.",
+      partner_cta: "Utsolgt",
+      partner_sold_out: true,
     },
     partners: {
       title: "Partnere",
@@ -103,10 +103,10 @@ export default {
         "Mulighet til å bidra med innhold eller aktivitet på deres stand",
       ],
       price: "kr 35.000,- eks. mva.",
-      cta_title: "Sikre deres plass!",
+      cta_title: "Utsolgt!",
       cta_subtitle:
-        "TDC 2025 ble utsolgt, og vi forventer enda større interesse i 2026.",
-      cta_button: "Bli partner",
+        "Alle partnerplasser for TDC 2026 er utsolgt. Kontakt oss for venteliste.",
+      cta_button: "Kontakt oss",
       contact_text: "For spørsmål kontakt oss på",
     },
     coc: {
@@ -149,7 +149,6 @@ export default {
       year: "2026",
       venue: "Clarion Hotel Trondheim",
       cta_tickets: "Buy tickets",
-      cta_cfp: "Submit your talk",
     },
     about: {
       title: "Welcome to TDC 2026!",
@@ -167,8 +166,8 @@ export default {
     },
     cfp: {
       title: "Call for Presentations",
-      body: "Our Call for Presentations for 2026 is now open! We are looking for a conference agenda that consists of multiple tracks for digital design, front-end, back-end, agile developers, and many other interesting topics. Our conference strives to reach a balance between local, national and international speakers.",
-      cta: "Submit your talk",
+      body: "Our Call for Presentations for 2026 is now closed. Thank you to everyone who submitted! The program will be published soon.",
+      cta: "",
     },
     speakers: {
       title: "Speakers",
@@ -188,8 +187,9 @@ export default {
         "Get full access to the conference, including food, drinks and party.",
       partner_title: "For partners",
       partner_desc:
-        "Be visible to 800+ attendees. Secure your booth and tickets.",
-      partner_cta: "Become a partner",
+        "Partner tickets are sold out! Contact us to join the waiting list.",
+      partner_cta: "Sold out",
+      partner_sold_out: true,
     },
     partners: {
       title: "Partners",
@@ -233,10 +233,10 @@ export default {
         "Opportunity to contribute content or activities at your booth",
       ],
       price: "NOK 35,000 excl. VAT",
-      cta_title: "Secure your spot!",
+      cta_title: "Sold out!",
       cta_subtitle:
-        "TDC 2025 was sold out, and we expect even greater interest in 2026.",
-      cta_button: "Become a partner",
+        "All partner spots for TDC 2026 are sold out. Contact us for the waiting list.",
+      cta_button: "Contact us",
       contact_text: "For questions contact us at",
     },
     coc: {

@@ -9,4 +9,4 @@ image_header: "/assets/images/headers/cfp.svg"
 
 ---
 
-Vår [Call for Presentations](https://sessionize.com/tdc-2026/) for 2026 er nå åpen! Vi ser etter en konferanseagenda som består av flere spor for digital design, front-end, back-end, agile utviklere, og mange andre interessante emner. Vår konferanse streber etter å oppnå en balanse mellom lokale, nasjonale og internasjonale foredragsholdere, og en relativt stor andel av innsendelser til call-for-presentations.
+Vår Call for Presentations for 2026 er nå stengt. Takk til alle som sendte inn forslag! Programmet publiseres snart.
